@@ -21,405 +21,405 @@ public class NetheoPlants {
         "CRY_ELEMENTAL_COMMON_SEED",
         Skulls.SEED_RED.getPlayerHead(),
         Theme.SEED,
-        "普通元素水晶之种",
-        new String[]{"这种植物成熟后,", "收获时将获得元素水晶."},
-        Stacks.getCanBePlacedOnLore("下界草方块", "(或净化等级更高的)")
+        "Common Elemental Crystal Seed",
+        new String[]{"When this plant matures,", "harvesting it yields an Elemental Crystal."},
+        Stacks.getCanBePlacedOnLore("Nether Grass Block", "(or higher purification tier)")
     );
 
     public static final SlimefunItemStack MECHANICAL_COMMON_SEED = Theme.themedSeed(
         "CRY_MECHANICAL_COMMON_SEED",
         Skulls.SEED_ORANGE.getPlayerHead(),
         Theme.SEED,
-        "普通机械水晶之种",
-        new String[]{"这种植物成熟后,", "收获时将获得机械水晶."},
-        Stacks.getCanBePlacedOnLore("下界草方块", "(或净化等级更高的)")
+        "Common Mechanical Crystal Seed",
+        new String[]{"When this plant matures,", "harvesting it yields a Mechanical Crystal."},
+        Stacks.getCanBePlacedOnLore("Nether Grass Block", "(or higher purification tier)")
     );
 
     public static final SlimefunItemStack ALCHEMICAL_COMMON_SEED = Theme.themedSeed(
         "CRY_ALCHEMICAL_COMMON_SEED",
         Skulls.SEED_YELLOW.getPlayerHead(),
         Theme.SEED,
-        "普通炼金水晶之种",
-        new String[]{"这种植物成熟后,", "收获时将获得炼金水晶."},
-        Stacks.getCanBePlacedOnLore("下界草方块", "(或净化等级更高的)")
+        "Common Alchemical Crystal Seed",
+        new String[]{"When this plant matures,", "harvesting it yields an Alchemical Crystal."},
+        Stacks.getCanBePlacedOnLore("Nether Grass Block", "(or higher purification tier)")
     );
 
     public static final SlimefunItemStack HISTORICAL_COMMON_SEED = Theme.themedSeed(
         "CRY_HISTORICAL_COMMON_SEED",
         Skulls.SEED_GREEN.getPlayerHead(),
         Theme.SEED,
-        "普通历史水晶之种",
-        new String[]{"这种植物成熟后,", "收获时将获得历史水晶."},
-        Stacks.getCanBePlacedOnLore("下界草方块", "(或净化等级更高的)")
+        "Common Historical Crystal Seed",
+        new String[]{"When this plant matures,", "harvesting it yields a Historical Crystal."},
+        Stacks.getCanBePlacedOnLore("Nether Grass Block", "(or higher purification tier)")
     );
 
     public static final SlimefunItemStack HUMAN_COMMON_SEED = Theme.themedSeed(
         "CRY_HUMAN_COMMON_SEED",
         Skulls.SEED_BLUE.getPlayerHead(),
         Theme.SEED,
-        "普通人类水晶之种",
-        new String[]{"这种植物成熟后,", "收获时将获得人类水晶."},
-        Stacks.getCanBePlacedOnLore("下界草方块", "(或净化等级更高的)")
+        "Common Human Crystal Seed",
+        new String[]{"When this plant matures,", "harvesting it yields a Human Crystal."},
+        Stacks.getCanBePlacedOnLore("Nether Grass Block", "(or higher purification tier)")
     );
 
     public static final SlimefunItemStack ANIMAL_COMMON_SEED = Theme.themedSeed(
         "CRY_ANIMAL_COMMON_SEED",
         Skulls.SEED_CYAN.getPlayerHead(),
         Theme.SEED,
-        "普通动物水晶之种",
-        new String[]{"这种植物成熟后,", "收获时将获得动物水晶."},
-        Stacks.getCanBePlacedOnLore("下界草方块", "(或净化等级更高的)")
+        "Common Animal Crystal Seed",
+        new String[]{"When this plant matures,", "harvesting it yields an Animal Crystal."},
+        Stacks.getCanBePlacedOnLore("Nether Grass Block", "(or higher purification tier)")
     );
 
     public static final SlimefunItemStack CELESTIAL_COMMON_SEED = Theme.themedSeed(
         "CRY_CELESTIAL_COMMON_SEED",
         Skulls.SEED_YELLOW.getPlayerHead(),
         Theme.SEED,
-        "普通天体水晶之种",
-        new String[]{"这种植物成熟后,", "收获时将获得天体水晶."},
-        Stacks.getCanBePlacedOnLore("下界草方块", "(或净化等级更高的)")
+        "Common Celestial Crystal Seed",
+        new String[]{"When this plant matures,", "harvesting it yields a Celestial Crystal."},
+        Stacks.getCanBePlacedOnLore("Nether Grass Block", "(or higher purification tier)")
     );
 
     public static final SlimefunItemStack VOID_COMMON_SEED = Theme.themedSeed(
         "CRY_VOID_COMMON_SEED",
         Skulls.SEED_PURPLE.getPlayerHead(),
         Theme.SEED,
-        "普通虚空水晶之种",
-        new String[]{"这种植物成熟后,", "收获时将获得虚空水晶."},
-        Stacks.getCanBePlacedOnLore("下界草方块", "(或净化等级更高的)")
+        "Common Void Crystal Seed",
+        new String[]{"When this plant matures,", "harvesting it yields a Void Crystal."},
+        Stacks.getCanBePlacedOnLore("Nether Grass Block", "(or higher purification tier)")
     );
 
     public static final SlimefunItemStack PHILOSOPHICAL_COMMON_SEED = Theme.themedSeed(
         "CRY_PHILOSOPHICAL_COMMON_SEED",
         Skulls.SEED_PURPLE.getPlayerHead(),
         Theme.SEED,
-        "普通哲学水晶之种",
-        new String[]{"这种植物成熟后,", "收获时将获得哲学水晶."},
-        Stacks.getCanBePlacedOnLore("下界草方块", "(或净化等级更高的)")
+        "Common Philosophical Crystal Seed",
+        new String[]{"When this plant matures,", "harvesting it yields a Philosophical Crystal."},
+        Stacks.getCanBePlacedOnLore("Nether Grass Block", "(or higher purification tier)")
     );
     
     public static final SlimefunItemStack ELEMENTAL_UNCOMMON_SEED = Theme.themedSeed(
         "CRY_ELEMENTAL_UNCOMMON_SEED",
         Skulls.SEED_RED.getPlayerHead(),
         Theme.SEED,
-        "罕见元素水晶之种",
-        new String[]{"这种植物成熟后,", "收获时将获得元素水晶."},
-        Stacks.getCanBePlacedOnLore("下界草方块", "(或净化等级更高的)")
+        "Uncommon Elemental Crystal Seed",
+        new String[]{"When this plant matures,", "harvesting it yields an Elemental Crystal."},
+        Stacks.getCanBePlacedOnLore("Nether Grass Block", "(or higher purification tier)")
     );
 
     public static final SlimefunItemStack MECHANICAL_UNCOMMON_SEED = Theme.themedSeed(
         "CRY_MECHANICAL_UNCOMMON_SEED",
         Skulls.SEED_ORANGE.getPlayerHead(),
         Theme.SEED,
-        "罕见机械水晶之种",
-        new String[]{"这种植物成熟后,", "收获时将获得机械水晶."},
-        Stacks.getCanBePlacedOnLore("下界草方块", "(或净化等级更高的)")
+        "Uncommon Mechanical Crystal Seed",
+        new String[]{"When this plant matures,", "harvesting it yields a Mechanical Crystal."},
+        Stacks.getCanBePlacedOnLore("Nether Grass Block", "(or higher purification tier)")
     );
 
     public static final SlimefunItemStack ALCHEMICAL_UNCOMMON_SEED = Theme.themedSeed(
         "CRY_ALCHEMICAL_UNCOMMON_SEED",
         Skulls.SEED_YELLOW.getPlayerHead(),
         Theme.SEED,
-        "罕见炼金水晶之种",
-        new String[]{"这种植物成熟后,", "收获时将获得炼金水晶."},
-        Stacks.getCanBePlacedOnLore("下界草方块", "(或净化等级更高的)")
+        "Uncommon Alchemical Crystal Seed",
+        new String[]{"When this plant matures,", "harvesting it yields an Alchemical Crystal."},
+        Stacks.getCanBePlacedOnLore("Nether Grass Block", "(or higher purification tier)")
     );
 
     public static final SlimefunItemStack HISTORICAL_UNCOMMON_SEED = Theme.themedSeed(
         "CRY_HISTORICAL_UNCOMMON_SEED",
         Skulls.SEED_GREEN.getPlayerHead(),
         Theme.SEED,
-        "罕见历史水晶之种",
-        new String[]{"这种植物成熟后,", "收获时将获得历史水晶."},
-        Stacks.getCanBePlacedOnLore("下界草方块", "(或净化等级更高的)")
+        "Uncommon Historical Crystal Seed",
+        new String[]{"When this plant matures,", "harvesting it yields a Historical Crystal."},
+        Stacks.getCanBePlacedOnLore("Nether Grass Block", "(or higher purification tier)")
     );
 
     public static final SlimefunItemStack HUMAN_UNCOMMON_SEED = Theme.themedSeed(
         "CRY_HUMAN_UNCOMMON_SEED",
         Skulls.SEED_BLUE.getPlayerHead(),
         Theme.SEED,
-        "罕见人类水晶之种",
-        new String[]{"这种植物成熟后,", "收获时将获得人类水晶."},
-        Stacks.getCanBePlacedOnLore("下界草方块", "(或净化等级更高的)")
+        "Uncommon Human Crystal Seed",
+        new String[]{"When this plant matures,", "harvesting it yields a Human Crystal."},
+        Stacks.getCanBePlacedOnLore("Nether Grass Block", "(or higher purification tier)")
     );
 
     public static final SlimefunItemStack ANIMAL_UNCOMMON_SEED = Theme.themedSeed(
         "CRY_ANIMAL_UNCOMMON_SEED",
         Skulls.SEED_CYAN.getPlayerHead(),
         Theme.SEED,
-        "罕见动物水晶之种",
-        new String[]{"这种植物成熟后,", "收获时将获得动物水晶."},
-        Stacks.getCanBePlacedOnLore("下界草方块", "(或净化等级更高的)")
+        "Uncommon Animal Crystal Seed",
+        new String[]{"When this plant matures,", "harvesting it yields an Animal Crystal."},
+        Stacks.getCanBePlacedOnLore("Nether Grass Block", "(or higher purification tier)")
     );
 
     public static final SlimefunItemStack CELESTIAL_UNCOMMON_SEED = Theme.themedSeed(
         "CRY_CELESTIAL_UNCOMMON_SEED",
         Skulls.SEED_YELLOW.getPlayerHead(),
         Theme.SEED,
-        "罕见天体水晶之种",
-        new String[]{"这种植物成熟后,", "收获时将获得天体水晶."},
-        Stacks.getCanBePlacedOnLore("下界草方块", "(或净化等级更高的)")
+        "Uncommon Celestial Crystal Seed",
+        new String[]{"When this plant matures,", "harvesting it yields a Celestial Crystal."},
+        Stacks.getCanBePlacedOnLore("Nether Grass Block", "(or higher purification tier)")
     );
 
     public static final SlimefunItemStack VOID_UNCOMMON_SEED = Theme.themedSeed(
         "CRY_VOID_UNCOMMON_SEED",
         Skulls.SEED_PURPLE.getPlayerHead(),
         Theme.SEED,
-        "罕见虚空水晶之种",
-        new String[]{"这种植物成熟后,", "收获时将获得虚空水晶."},
-        Stacks.getCanBePlacedOnLore("下界草方块", "(或净化等级更高的)")
+        "Uncommon Void Crystal Seed",
+        new String[]{"When this plant matures,", "harvesting it yields a Void Crystal."},
+        Stacks.getCanBePlacedOnLore("Nether Grass Block", "(or higher purification tier)")
     );
 
     public static final SlimefunItemStack PHILOSOPHICAL_UNCOMMON_SEED = Theme.themedSeed(
         "CRY_PHILOSOPHICAL_UNCOMMON_SEED",
         Skulls.SEED_PURPLE.getPlayerHead(),
         Theme.SEED,
-        "罕见哲学水晶之种",
-        new String[]{"这种植物成熟后,", "收获时将获得哲学水晶."},
-        Stacks.getCanBePlacedOnLore("下界草方块", "(或净化等级更高的)")
+        "Uncommon Philosophical Crystal Seed",
+        new String[]{"When this plant matures,", "harvesting it yields a Philosophical Crystal."},
+        Stacks.getCanBePlacedOnLore("Nether Grass Block", "(or higher purification tier)")
     );
     
     public static final SlimefunItemStack ELEMENTAL_RARE_SEED = Theme.themedSeed(
         "CRY_ELEMENTAL_RARE_SEED",
         Skulls.SEED_RED.getPlayerHead(),
         Theme.SEED,
-        "稀有元素水晶之种",
-        new String[]{"这种植物成熟后,", "收获时将获得元素水晶."},
-        Stacks.getCanBePlacedOnLore("下界草方块", "(或净化等级更高的)")
+        "Rare Elemental Crystal Seed",
+        new String[]{"When this plant matures,", "harvesting it yields an Elemental Crystal."},
+        Stacks.getCanBePlacedOnLore("Nether Grass Block", "(or higher purification tier)")
     );
 
     public static final SlimefunItemStack MECHANICAL_RARE_SEED = Theme.themedSeed(
         "CRY_MECHANICAL_RARE_SEED",
         Skulls.SEED_ORANGE.getPlayerHead(),
         Theme.SEED,
-        "稀有机械水晶之种",
-        new String[]{"这种植物成熟后,", "收获时将获得机械水晶."},
-        Stacks.getCanBePlacedOnLore("下界草方块", "(或净化等级更高的)")
+        "Rare Mechanical Crystal Seed",
+        new String[]{"When this plant matures,", "harvesting it yields a Mechanical Crystal."},
+        Stacks.getCanBePlacedOnLore("Nether Grass Block", "(or higher purification tier)")
     );
 
     public static final SlimefunItemStack ALCHEMICAL_RARE_SEED = Theme.themedSeed(
         "CRY_ALCHEMICAL_RARE_SEED",
         Skulls.SEED_YELLOW.getPlayerHead(),
         Theme.SEED,
-        "稀有炼金水晶之种",
-        new String[]{"这种植物成熟后,", "收获时将获得炼金水晶."},
-        Stacks.getCanBePlacedOnLore("下界草方块", "(或净化等级更高的)")
+        "Rare Alchemical Crystal Seed",
+        new String[]{"When this plant matures,", "harvesting it yields an Alchemical Crystal."},
+        Stacks.getCanBePlacedOnLore("Nether Grass Block", "(or higher purification tier)")
     );
 
     public static final SlimefunItemStack HISTORICAL_RARE_SEED = Theme.themedSeed(
         "CRY_HISTORICAL_RARE_SEED",
         Skulls.SEED_GREEN.getPlayerHead(),
         Theme.SEED,
-        "稀有历史水晶之种",
-        new String[]{"这种植物成熟后,", "收获时将获得历史水晶."},
-        Stacks.getCanBePlacedOnLore("下界草方块", "(或净化等级更高的)")
+        "Rare Historical Crystal Seed",
+        new String[]{"When this plant matures,", "harvesting it yields a Historical Crystal."},
+        Stacks.getCanBePlacedOnLore("Nether Grass Block", "(or higher purification tier)")
     );
 
     public static final SlimefunItemStack HUMAN_RARE_SEED = Theme.themedSeed(
         "CRY_HUMAN_RARE_SEED",
         Skulls.SEED_BLUE.getPlayerHead(),
         Theme.SEED,
-        "稀有人类水晶之种",
-        new String[]{"这种植物成熟后,", "收获时将获得人类水晶."},
-        Stacks.getCanBePlacedOnLore("下界草方块", "(或净化等级更高的)")
+        "Rare Human Crystal Seed",
+        new String[]{"When this plant matures,", "harvesting it yields a Human Crystal."},
+        Stacks.getCanBePlacedOnLore("Nether Grass Block", "(or higher purification tier)")
     );
 
     public static final SlimefunItemStack ANIMAL_RARE_SEED = Theme.themedSeed(
         "CRY_ANIMAL_RARE_SEED",
         Skulls.SEED_CYAN.getPlayerHead(),
         Theme.SEED,
-        "稀有动物水晶之种",
-        new String[]{"这种植物成熟后,", "收获时将获得动物水晶."},
-        Stacks.getCanBePlacedOnLore("下界草方块", "(或净化等级更高的)")
+        "Rare Animal Crystal Seed",
+        new String[]{"When this plant matures,", "harvesting it yields an Animal Crystal."},
+        Stacks.getCanBePlacedOnLore("Nether Grass Block", "(or higher purification tier)")
     );
 
     public static final SlimefunItemStack CELESTIAL_RARE_SEED = Theme.themedSeed(
         "CRY_CELESTIAL_RARE_SEED",
         Skulls.SEED_YELLOW.getPlayerHead(),
         Theme.SEED,
-        "稀有天体水晶之种",
-        new String[]{"这种植物成熟后,", "收获时将获得天体水晶."},
-        Stacks.getCanBePlacedOnLore("下界草方块", "(或净化等级更高的)")
+        "Rare Celestial Crystal Seed",
+        new String[]{"When this plant matures,", "harvesting it yields a Celestial Crystal."},
+        Stacks.getCanBePlacedOnLore("Nether Grass Block", "(or higher purification tier)")
     );
 
     public static final SlimefunItemStack VOID_RARE_SEED = Theme.themedSeed(
         "CRY_VOID_RARE_SEED",
         Skulls.SEED_PURPLE.getPlayerHead(),
         Theme.SEED,
-        "稀有虚空水晶之种",
-        new String[]{"这种植物成熟后,", "收获时将获得虚空水晶."},
-        Stacks.getCanBePlacedOnLore("下界草方块", "(或净化等级更高的)")
+        "Rare Void Crystal Seed",
+        new String[]{"When this plant matures,", "harvesting it yields a Void Crystal."},
+        Stacks.getCanBePlacedOnLore("Nether Grass Block", "(or higher purification tier)")
     );
 
     public static final SlimefunItemStack PHILOSOPHICAL_RARE_SEED = Theme.themedSeed(
         "CRY_PHILOSOPHICAL_RARE_SEED",
         Skulls.SEED_PURPLE.getPlayerHead(),
         Theme.SEED,
-        "稀有哲学水晶之种",
-        new String[]{"这种植物成熟后,", "收获时将获得哲学水晶."},
-        Stacks.getCanBePlacedOnLore("下界草方块", "(或净化等级更高的)")
+        "Rare Philosophical Crystal Seed",
+        new String[]{"When this plant matures,", "harvesting it yields a Philosophical Crystal."},
+        Stacks.getCanBePlacedOnLore("Nether Grass Block", "(or higher purification tier)")
     );
     
     public static final SlimefunItemStack ELEMENTAL_EPIC_SEED = Theme.themedSeed(
         "CRY_ELEMENTAL_EPIC_SEED",
         Skulls.SEED_RED.getPlayerHead(),
         Theme.SEED,
-        "史诗元素水晶之种",
-        new String[]{"这种植物成熟后,", "收获时将获得元素水晶."},
-        Stacks.getCanBePlacedOnLore("下界草方块", "(或净化等级更高的)")
+        "Epic Elemental Crystal Seed",
+        new String[]{"When this plant matures,", "harvesting it yields an Elemental Crystal."},
+        Stacks.getCanBePlacedOnLore("Nether Grass Block", "(or higher purification tier)")
     );
 
     public static final SlimefunItemStack MECHANICAL_EPIC_SEED = Theme.themedSeed(
         "CRY_MECHANICAL_EPIC_SEED",
         Skulls.SEED_ORANGE.getPlayerHead(),
         Theme.SEED,
-        "史诗机械水晶之种",
-        new String[]{"这种植物成熟后,", "收获时将获得机械水晶."},
-        Stacks.getCanBePlacedOnLore("下界草方块", "(或净化等级更高的)")
+        "Epic Mechanical Crystal Seed",
+        new String[]{"When this plant matures,", "harvesting it yields a Mechanical Crystal."},
+        Stacks.getCanBePlacedOnLore("Nether Grass Block", "(or higher purification tier)")
     );
 
     public static final SlimefunItemStack ALCHEMICAL_EPIC_SEED = Theme.themedSeed(
         "CRY_ALCHEMICAL_EPIC_SEED",
         Skulls.SEED_YELLOW.getPlayerHead(),
         Theme.SEED,
-        "史诗炼金水晶之种",
-        new String[]{"这种植物成熟后,", "收获时将获得炼金水晶."},
-        Stacks.getCanBePlacedOnLore("下界草方块", "(或净化等级更高的)")
+        "Epic Alchemical Crystal Seed",
+        new String[]{"When this plant matures,", "harvesting it yields an Alchemical Crystal."},
+        Stacks.getCanBePlacedOnLore("Nether Grass Block", "(or higher purification tier)")
     );
 
     public static final SlimefunItemStack HISTORICAL_EPIC_SEED = Theme.themedSeed(
         "CRY_HISTORICAL_EPIC_SEED",
         Skulls.SEED_GREEN.getPlayerHead(),
         Theme.SEED,
-        "史诗历史水晶之种",
-        new String[]{"这种植物成熟后,", "收获时将获得历史水晶."},
-        Stacks.getCanBePlacedOnLore("下界草方块", "(或净化等级更高的)")
+        "Epic Historical Crystal Seed",
+        new String[]{"When this plant matures,", "harvesting it yields a Historical Crystal."},
+        Stacks.getCanBePlacedOnLore("Nether Grass Block", "(or higher purification tier)")
     );
 
     public static final SlimefunItemStack HUMAN_EPIC_SEED = Theme.themedSeed(
         "CRY_HUMAN_EPIC_SEED",
         Skulls.SEED_BLUE.getPlayerHead(),
         Theme.SEED,
-        "史诗人类水晶之种",
-        new String[]{"这种植物成熟后,", "收获时将获得人类水晶."},
-        Stacks.getCanBePlacedOnLore("下界草方块", "(或净化等级更高的)")
+        "Epic Human Crystal Seed",
+        new String[]{"When this plant matures,", "harvesting it yields a Human Crystal."},
+        Stacks.getCanBePlacedOnLore("Nether Grass Block", "(or higher purification tier)")
     );
 
     public static final SlimefunItemStack ANIMAL_EPIC_SEED = Theme.themedSeed(
         "CRY_ANIMAL_EPIC_SEED",
         Skulls.SEED_CYAN.getPlayerHead(),
         Theme.SEED,
-        "史诗动物水晶之种",
-        new String[]{"这种植物成熟后,", "收获时将获得动物水晶."},
-        Stacks.getCanBePlacedOnLore("下界草方块", "(或净化等级更高的)")
+        "Epic Animal Crystal Seed",
+        new String[]{"When this plant matures,", "harvesting it yields an Animal Crystal."},
+        Stacks.getCanBePlacedOnLore("Nether Grass Block", "(or higher purification tier)")
     );
 
     public static final SlimefunItemStack CELESTIAL_EPIC_SEED = Theme.themedSeed(
         "CRY_CELESTIAL_EPIC_SEED",
         Skulls.SEED_YELLOW.getPlayerHead(),
         Theme.SEED,
-        "史诗天体水晶之种",
-        new String[]{"这种植物成熟后,", "收获时将获得天体水晶."},
-        Stacks.getCanBePlacedOnLore("下界草方块", "(或净化等级更高的)")
+        "Epic Celestial Crystal Seed",
+        new String[]{"When this plant matures,", "harvesting it yields a Celestial Crystal."},
+        Stacks.getCanBePlacedOnLore("Nether Grass Block", "(or higher purification tier)")
     );
 
     public static final SlimefunItemStack VOID_EPIC_SEED = Theme.themedSeed(
         "CRY_VOID_EPIC_SEED",
         Skulls.SEED_PURPLE.getPlayerHead(),
         Theme.SEED,
-        "史诗虚空水晶之种",
-        new String[]{"这种植物成熟后,", "收获时将获得虚空水晶."},
-        Stacks.getCanBePlacedOnLore("下界草方块", "(或净化等级更高的)")
+        "Epic Void Crystal Seed",
+        new String[]{"When this plant matures,", "harvesting it yields a Void Crystal."},
+        Stacks.getCanBePlacedOnLore("Nether Grass Block", "(or higher purification tier)")
     );
 
     public static final SlimefunItemStack PHILOSOPHICAL_EPIC_SEED = Theme.themedSeed(
         "CRY_PHILOSOPHICAL_EPIC_SEED",
         Skulls.SEED_PURPLE.getPlayerHead(),
         Theme.SEED,
-        "史诗哲学水晶之种",
-        new String[]{"这种植物成熟后,", "收获时将获得哲学水晶."},
-        Stacks.getCanBePlacedOnLore("下界草方块", "(或净化等级更高的)")
+        "Epic Philosophical Crystal Seed",
+        new String[]{"When this plant matures,", "harvesting it yields a Philosophical Crystal."},
+        Stacks.getCanBePlacedOnLore("Nether Grass Block", "(or higher purification tier)")
     );
     
     public static final SlimefunItemStack ELEMENTAL_MYTHICAL_SEED = Theme.themedSeed(
         "CRY_ELEMENTAL_MYTHICAL_SEED",
         Skulls.SEED_RED.getPlayerHead(),
         Theme.SEED,
-        "神秘元素水晶之种",
-        new String[]{"这种植物成熟后,", "收获时将获得元素水晶."},
-        Stacks.getCanBePlacedOnLore("下界草方块", "(或净化等级更高的)")
+        "Mythical Elemental Crystal Seed",
+        new String[]{"When this plant matures,", "harvesting it yields an Elemental Crystal."},
+        Stacks.getCanBePlacedOnLore("Nether Grass Block", "(or higher purification tier)")
     );
 
     public static final SlimefunItemStack MECHANICAL_MYTHICAL_SEED = Theme.themedSeed(
         "CRY_MECHANICAL_MYTHICAL_SEED",
         Skulls.SEED_ORANGE.getPlayerHead(),
         Theme.SEED,
-        "神秘机械水晶之种",
-        new String[]{"这种植物成熟后,", "收获时将获得机械水晶."},
-        Stacks.getCanBePlacedOnLore("下界草方块", "(或净化等级更高的)")
+        "Mythical Mechanical Crystal Seed",
+        new String[]{"When this plant matures,", "harvesting it yields a Mechanical Crystal."},
+        Stacks.getCanBePlacedOnLore("Nether Grass Block", "(or higher purification tier)")
     );
 
     public static final SlimefunItemStack ALCHEMICAL_MYTHICAL_SEED = Theme.themedSeed(
         "CRY_ALCHEMICAL_MYTHICAL_SEED",
         Skulls.SEED_YELLOW.getPlayerHead(),
         Theme.SEED,
-        "神秘炼金水晶之种",
-        new String[]{"这种植物成熟后,", "收获时将获得炼金水晶."},
-        Stacks.getCanBePlacedOnLore("下界草方块", "(或净化等级更高的)")
+        "Mythical Alchemical Crystal Seed",
+        new String[]{"When this plant matures,", "harvesting it yields an Alchemical Crystal."},
+        Stacks.getCanBePlacedOnLore("Nether Grass Block", "(or higher purification tier)")
     );
 
     public static final SlimefunItemStack HISTORICAL_MYTHICAL_SEED = Theme.themedSeed(
         "CRY_HISTORICAL_MYTHICAL_SEED",
         Skulls.SEED_GREEN.getPlayerHead(),
         Theme.SEED,
-        "神秘历史水晶之种",
-        new String[]{"这种植物成熟后,", "收获时将获得历史水晶."},
-        Stacks.getCanBePlacedOnLore("下界草方块", "(或净化等级更高的)")
+        "Mythical Historical Crystal Seed",
+        new String[]{"When this plant matures,", "harvesting it yields a Historical Crystal."},
+        Stacks.getCanBePlacedOnLore("Nether Grass Block", "(or higher purification tier)")
     );
 
     public static final SlimefunItemStack HUMAN_MYTHICAL_SEED = Theme.themedSeed(
         "CRY_HUMAN_MYTHICAL_SEED",
         Skulls.SEED_BLUE.getPlayerHead(),
         Theme.SEED,
-        "神秘人类水晶之种",
-        new String[]{"这种植物成熟后,", "收获时将获得人类水晶."},
-        Stacks.getCanBePlacedOnLore("下界草方块", "(或净化等级更高的)")
+        "Mythical Human Crystal Seed",
+        new String[]{"When this plant matures,", "harvesting it yields a Human Crystal."},
+        Stacks.getCanBePlacedOnLore("Nether Grass Block", "(or higher purification tier)")
     );
 
     public static final SlimefunItemStack ANIMAL_MYTHICAL_SEED = Theme.themedSeed(
         "CRY_ANIMAL_MYTHICAL_SEED",
         Skulls.SEED_CYAN.getPlayerHead(),
         Theme.SEED,
-        "神秘动物水晶之种",
-        new String[]{"这种植物成熟后,", "收获时将获得动物水晶."},
-        Stacks.getCanBePlacedOnLore("下界草方块", "(或净化等级更高的)")
+        "Mythical Animal Crystal Seed",
+        new String[]{"When this plant matures,", "harvesting it yields an Animal Crystal."},
+        Stacks.getCanBePlacedOnLore("Nether Grass Block", "(or higher purification tier)")
     );
 
     public static final SlimefunItemStack CELESTIAL_MYTHICAL_SEED = Theme.themedSeed(
         "CRY_CELESTIAL_MYTHICAL_SEED",
         Skulls.SEED_YELLOW.getPlayerHead(),
         Theme.SEED,
-        "神秘天体水晶之种",
-        new String[]{"这种植物成熟后,", "收获时将获得天体水晶."},
-        Stacks.getCanBePlacedOnLore("下界草方块", "(或净化等级更高的)")
+        "Mythical Celestial Crystal Seed",
+        new String[]{"When this plant matures,", "harvesting it yields a Celestial Crystal."},
+        Stacks.getCanBePlacedOnLore("Nether Grass Block", "(or higher purification tier)")
     );
 
     public static final SlimefunItemStack VOID_MYTHICAL_SEED = Theme.themedSeed(
         "CRY_VOID_MYTHICAL_SEED",
         Skulls.SEED_PURPLE.getPlayerHead(),
         Theme.SEED,
-        "神秘虚空水晶之种",
-        new String[]{"这种植物成熟后,", "收获时将获得虚空水晶."},
-        Stacks.getCanBePlacedOnLore("下界草方块", "(或净化等级更高的)")
+        "Mythical Void Crystal Seed",
+        new String[]{"When this plant matures,", "harvesting it yields a Void Crystal."},
+        Stacks.getCanBePlacedOnLore("Nether Grass Block", "(or higher purification tier)")
     );
 
     public static final SlimefunItemStack PHILOSOPHICAL_MYTHICAL_SEED = Theme.themedSeed(
         "CRY_PHILOSOPHICAL_MYTHICAL_SEED",
         Skulls.SEED_PURPLE.getPlayerHead(),
         Theme.SEED,
-        "神秘哲学水晶之种",
-        new String[]{"这种植物成熟后,", "收获时将获得哲学水晶."},
-        Stacks.getCanBePlacedOnLore("下界草方块", "(或净化等级更高的)")
+        "Mythical Philosophical Crystal Seed",
+        new String[]{"When this plant matures,", "harvesting it yields a Philosophical Crystal."},
+        Stacks.getCanBePlacedOnLore("Nether Grass Block", "(or higher purification tier)")
     );
 
     public static void setup() {

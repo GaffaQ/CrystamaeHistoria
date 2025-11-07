@@ -221,7 +221,7 @@
             <scope>compile</scope>
         </dependency>
 
-        <!-- 汉化 -->
+        <!-- Guizhan Support Library -->
         <dependency>
             <groupId>net.guizhanss</groupId>
             <artifactId>GuizhanLibPlugin</artifactId>

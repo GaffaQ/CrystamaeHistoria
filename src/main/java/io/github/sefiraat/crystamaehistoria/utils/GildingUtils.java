@@ -33,8 +33,8 @@ public class GildingUtils {
         ItemMeta itemMeta = itemStack.getItemMeta();
         PersistentDataAPI.setBoolean(itemMeta, Keys.PDC_IS_GILDED, true);
         List<String> lore = itemStack.getLore();
-        lore.add("");
-        lore.add("" + ChatColor.YELLOW + ChatColor.BOLD + "已镀金");
+            lore.add("");
+            lore.add("" + ChatColor.YELLOW + ChatColor.BOLD + "Gilded");
         itemMeta.setLore(lore);
         itemStack.setItemMeta(itemMeta);
     }

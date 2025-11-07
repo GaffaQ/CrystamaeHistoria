@@ -21,27 +21,27 @@ public class GuiElements {
 
     public static final CustomItemStack MENU_BACKGROUND_INPUT = new CustomItemStack(
         Material.LIGHT_BLUE_STAINED_GLASS_PANE,
-        ChatColor.BLUE + "输入"
+    ChatColor.BLUE + "Input"
     );
 
     public static final CustomItemStack MENU_STAVE_INPUT = new CustomItemStack(
         Material.LIGHT_BLUE_STAINED_GLASS_PANE,
-        ChatColor.BLUE + "在此处放入法杖"
+    ChatColor.BLUE + "Place Stave Here"
     );
 
     public static final CustomItemStack MENU_REMOVE_PLATES = new CustomItemStack(
         Material.ORANGE_STAINED_GLASS_PANE,
-        ChatColor.BLUE + "移除法术板"
+    ChatColor.BLUE + "Remove Spell Plate"
     );
 
     public static final CustomItemStack MENU_SAVE_STAVE = new CustomItemStack(
         Material.GREEN_STAINED_GLASS_PANE,
-        ChatColor.BLUE + "保存法杖设置"
+    ChatColor.BLUE + "Save Stave Settings"
     );
 
     public static final CustomItemStack MENU_BACKGROUND_OUTPUT = new CustomItemStack(
         Material.ORANGE_STAINED_GLASS_PANE,
-        ChatColor.RED + "输出"
+    ChatColor.RED + "Output"
     );
 
     public static final CustomItemStack MENU_DIVIDER = new CustomItemStack(
@@ -80,7 +80,7 @@ public class GuiElements {
             material,
             ThemeType.RARITY_UNIQUE,
             MaterialHelper.getName(material),
-            "该故事已被发掘"
+            "This story has been discovered"
         );
     }
 
@@ -90,10 +90,10 @@ public class GuiElements {
             Material.BARRIER,
             ThemeType.RESEARCH,
             MaterialHelper.getName(material),
-            MessageFormat.format("{0}{1}已锁定", ThemeType.RESEARCH.getColor(), ChatColor.BOLD),
-            "该故事还没有解锁",
-            "当你使用记录者首次发掘",
-            "指定方块的故事时才能解锁"
+            MessageFormat.format("{0}{1} is locked", ThemeType.RESEARCH.getColor(), ChatColor.BOLD),
+            "This story is not unlocked yet",
+            "It will unlock when you use the Chronicler to first discover",
+            "the story for the specified block."
         );
     }
 
@@ -103,10 +103,10 @@ public class GuiElements {
             Material.BARRIER,
             ThemeType.RESEARCH,
             name,
-            MessageFormat.format("{0}{1}已锁定", ThemeType.RESEARCH.getColor(), ChatColor.BOLD),
-            "该法术还没有被解锁",
-            "当你在液化池中首次",
-            "充能魔法板时才能解锁法术"
+            MessageFormat.format("{0}{1} is locked", ThemeType.RESEARCH.getColor(), ChatColor.BOLD),
+            "This spell is not unlocked yet",
+            "It will unlock when you first",
+            "charge a Spell Plate in the Liquefaction Basin."
         );
     }
 
@@ -116,7 +116,7 @@ public class GuiElements {
             material,
             ThemeType.RARITY_UNIQUE,
             MaterialHelper.getName(material),
-            "该方块已被镀金过"
+            "This block has been gilded"
         );
     }
 
@@ -126,8 +126,8 @@ public class GuiElements {
             Material.BARRIER,
             ThemeType.RESEARCH,
             MaterialHelper.getName(material),
-            MessageFormat.format("{0}{1}已锁定", ThemeType.RESEARCH.getColor(), ChatColor.BOLD),
-            "该方块还未被镀金过"
+            MessageFormat.format("{0}{1} is locked", ThemeType.RESEARCH.getColor(), ChatColor.BOLD),
+            "This block has not been gilded yet"
         );
     }
 
@@ -135,7 +135,7 @@ public class GuiElements {
     public static CustomItemStack getSpellSlotPane(SpellSlot spellSlot) {
         return new CustomItemStack(
             Material.RED_STAINED_GLASS_PANE,
-            ChatColor.GRAY + "法术: " + spellSlot.getDescription()
+            ChatColor.GRAY + "Spell: " + spellSlot.getDescription()
         );
     }
 
@@ -144,7 +144,7 @@ public class GuiElements {
         Material material = active ? Material.RED_STAINED_GLASS_PANE : Material.GREEN_STAINED_GLASS_PANE;
         return new CustomItemStack(
             material,
-            ChatColor.GRAY + "设置方向: " + blockFace.name()
+            ChatColor.GRAY + "Facing: " + blockFace.name()
         );
     }
 }
